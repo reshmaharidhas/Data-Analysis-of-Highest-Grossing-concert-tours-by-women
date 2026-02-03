@@ -27,6 +27,8 @@ This project contains data cleaning, exploratory data analysis, data visualizati
 ![Number of shows performed by artists has outlier](plots/number_of_shows_performed_by_artists.png)
 ![Duration of tours in years vs Average gross earned in USD](plots/average_gross_in_usd_bar_chart.png)
 
+## Kaggle Notebook📓
+https://www.kaggle.com/code/reshmaharidhas/data-cleaning-and-exploratory-data-analysis/notebook
 
 ## Tech Stack💻
 - Pandas
