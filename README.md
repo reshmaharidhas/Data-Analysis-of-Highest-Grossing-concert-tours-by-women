@@ -13,6 +13,22 @@ This project contains data cleaning, exploratory data analysis, data visualizati
 - Source: Kaggle 
 - Source url: https://www.kaggle.com/datasets/amruthayenikonda/dirty-dataset-to-practice-data-cleaning
 
+## Kaggle Notebook📓
+- SQL: https://www.kaggle.com/code/reshmaharidhas/sql-data-cleaning
+- Python: https://www.kaggle.com/code/reshmaharidhas/data-cleaning-and-exploratory-data-analysis/notebook
+
+## Tech Stack💻
+- SQL
+- Pandas
+- Numpy
+- Matplotlib
+- Python
+- SQLAlchemy
+- SQLite
+
+## Database Development 🗄️
+- MySQL Workbench - original SQL query development and testing
+
 ## Insights⭐
 - Taylor Swift, and Madonna hold the highest actual gross among all the concert tours.
 - Actual gross earned is higher for artists with higher ranks.
@@ -28,12 +44,3 @@ This project contains data cleaning, exploratory data analysis, data visualizati
 ![Number of shows performed vs actual gross amount earned in USD](plots/number_of_shows_performed_vs_actual_gross_amount_in_usd.png)
 ![Number of shows performed by artists has outlier](plots/number_of_shows_performed_by_artists.png)
 ![Duration of tours in years vs Average gross earned in USD](plots/average_gross_in_usd_bar_chart.png)
-
-## Kaggle Notebook📓
-https://www.kaggle.com/code/reshmaharidhas/data-cleaning-and-exploratory-data-analysis/notebook
-
-## Tech Stack💻
-- Pandas
-- Numpy
-- Matplotlib
-- Python
